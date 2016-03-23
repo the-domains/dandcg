@@ -1,0 +1,28 @@
+name: Dandcg
+favicon: null
+layout_spectrum: 0.9314040385652333
+typography_spectrum: 0.20142127852886915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.787006298545748
+  lightness: 0.7116321048233658
+  saturation: 0.7998652779497206
+  rhythmicContrast: 0.49964689766056836
+purpose: []
